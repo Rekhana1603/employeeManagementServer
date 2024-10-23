@@ -1,0 +1,68 @@
+{
+  "allEmployeeDetails": [
+    {
+      "id": "ce53",
+      "empName": "Max Miller",
+      "empId": "101",
+      "email": "maxmiller30@gmail.com",
+      "phoneNumber": "8956895678",
+      "empStatus": "active"
+    },
+    {
+      "id": "e525",
+      "empName": "Anna Steel",
+      "empId": "105",
+      "email": "annasteel105@gmail.com",
+      "phoneNumber": "9656897885",
+      "empStatus": "active"
+    },
+    {
+      "empName": "Sara John",
+      "empId": "108",
+      "email": "sarajohn46@gmail.com",
+      "phoneNumber": "9656897885",
+      "empStatus": "inactive",
+      "id": "c646"
+    },
+    {
+      "id": "6975",
+      "empName": "Joel Thomas",
+      "empId": "104",
+      "email": "joel55@gmail.com",
+      "phoneNumber": "7856941122",
+      "empStatus": "active"
+    },
+    {
+      "id": "da45",
+      "empName": "Anjali Vinod",
+      "empId": "110",
+      "email": "anjaliv11@gmail.com",
+      "phoneNumber": "9656897885",
+      "empStatus": "inactive"
+    },
+    {
+      "empName": "Alan Mathews",
+      "empId": "102",
+      "email": "alanmathew@gmail.com",
+      "phoneNumber": "8542856934",
+      "empStatus": "active",
+      "id": "6da7"
+    },
+    {
+      "id": "f1f9",
+      "empName": "Fathima S",
+      "empId": "112",
+      "email": "fathima788@gmail.com",
+      "phoneNumber": "7542749635",
+      "empStatus": "active"
+    },
+    {
+      "empName": "Norah Wills",
+      "empId": "103",
+      "email": "norahwills103@gmail.com",
+      "phoneNumber": "8911235563",
+      "empStatus": "inactive",
+      "id": "2c0b"
+    }
+  ]
+}
